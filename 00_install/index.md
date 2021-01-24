@@ -1,4 +1,4 @@
-一、Configure the directories where cltlk, ktlkd, and nodtlk are located in the Linux environment variable PATH, and the system runs on the ubuntu 18.04 x64 server
+Configure the directories where cltlk, ktlkd, and nodtlk are located in the Linux environment variable PATH, and the system runs on the ubuntu 18.04 x64 server
 
 Client tool:
 ```
