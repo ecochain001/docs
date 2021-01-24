@@ -10,7 +10,7 @@ TLKIO is the next-generation blockchain platform for creating and deploying smar
 
 The basic relationship between these components is illustrated in the diagram below.
 
-![TLKIO components](./images/ecochain_component.jpg)
+![TLKIO components](./images/ecochain_component.png)
 
 [[info | What's Next?]]
 | [Install the TLKIO Software](00_install/index.md) before exploring the sections above.
