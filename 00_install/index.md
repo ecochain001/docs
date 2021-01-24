@@ -1,13 +1,15 @@
-一、将cltlk、ktlkd、nodtlk所在目录配置为Linux环境变量PATH中，系统运行在ubuntu 18.04 x64服务器上
+一、Configure the directories where cltlk, ktlkd, and nodtlk are located in the Linux environment variable PATH, and the system runs on the ubuntu 18.04 x64 server
 
-客户端工具
+Client tool:
 cltlk
 
-私钥管理工具，需要配合cltlk使用
+
+Private key management tool, need to be used with cltlk:
 ktlkd
 
-区块链节点
+
+Blockchain node:
 nodtlk
 
-启动
+Start Node:
 ./nodtlk --disable-replay-opts --access-control-allow-origin='*'  --contracts-console --data-dir ./data --config-dir /yinni/config  --genesis-json  /yinni/config/genesis.json --verbose-http-errors >> configmodenodtlk.log 2>&1 &
